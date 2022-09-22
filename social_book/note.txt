@@ -1,0 +1,3 @@
+1. in setting.html, if the uploaded file is wrong, 
+    it will stop the program, TODO: check if the type of file is right, 
+    return redirect if not with messages.
